@@ -1,0 +1,10 @@
+.container .jumbotron{
+  background-color: green;
+  color: white;
+  text-align: center;
+  padding-bottom:  30px;
+  margin: auto;
+}
+.container img{
+  padding: 40px;
+}
